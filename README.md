@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jere Parladorio
 
-- I’m currently a Computer Science student at the National University of Rio Cuarto, in Argentina,
-  where I am a 4th year student.
+- I’m currently a 4th year Computer Science student at the National University of Rio Cuarto, in Argentina.
   
 - 📫 The best way to reach me is via email (it's linked in my profile).
 
