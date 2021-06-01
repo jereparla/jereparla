@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jere Parladorio
 
-- I’m currently a 4th year Computer Science student at the National University of Rio Cuarto, in Argentina.
+- I’m currently a 4th year Computer Science student at the National University of Rio Cuarto, in Argentina, and a research intern working on software testing at the University of Illinois at Urbana-Champaing.
   
 - 📫 The best way to reach me is via email (it's linked in my profile).
 
